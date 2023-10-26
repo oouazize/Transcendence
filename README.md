@@ -1,7 +1,8 @@
 # Pong Game Web Application
 
-![Header Image](app/client/src/Assets/game1.png)
+[DEMO](https://www.linkedin.com/posts/oussama-ouazize_dear-linkedin-network-i-am-thrilled-activity-7112902404987084800-ajtQ/)
 
+![Header Image](app/client/src/Assets/game1.png)
 
 
 This project comes in as the final big project of the 42 network common core, that consists of a complete web single page application. It serves real-time multiplayer online game, a chat, a dashboard and many more other cool stuff.
@@ -30,7 +31,3 @@ Through the chat interface the user is able to invite other users to play a Pong
 ![Header Image](app/client/src/Assets/game0.png)
 
 ![Header Image](app/client/src/Assets/game2.png)
-
-## More Info + DEMO
-
-[LinkedIn Post with FULL DEMO](https://www.linkedin.com/posts/oussama-ouazize_dear-linkedin-network-i-am-thrilled-activity-7112902404987084800-ajtQ/)
