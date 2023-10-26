@@ -1,7 +1,5 @@
 # Pong Game Web Application
 
-![](app/client/src/Assets/pongPreview.gif)
-
 ![Header Image](app/client/src/Assets/game1.png)
 
 
@@ -14,6 +12,9 @@ Everything is launched through a simple `docker-compose up --build`.
 In the following paragraphs we lay out what both the game and chat are about:
 
 ## The Game:
+
+![](app/client/src/Assets/pongPreview.gif)
+
 Through the game users are able to play a live Pong game versus another player directly on the website.
 The user can join a queue until they get automatically matched with someone else, this is based on a matchmaking system.
 The game offers some customization options such as specials like **Hiding the ball, deviating its path and increasing its velocity** and different maps.
