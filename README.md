@@ -27,3 +27,10 @@ Through the chat interface the user is able to invite other users to play a Pong
 ![Header Image](app/client/src/Assets/game0.png)
 
 ![Header Image](app/client/src/Assets/game2.png)
+
+## More Info + DEMO
+
+[LinkedIn Post with FULL DEMO](https://www.linkedin.com/posts/oussama-ouazize_dear-linkedin-network-i-am-thrilled-activity-7112902404987084800-ajtQ/)
+
+
+![](app/client/src/Assets/pongPreview.gif)
